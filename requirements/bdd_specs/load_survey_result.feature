@@ -1,10 +1,10 @@
-Feature: Resultado de uma Enquete
-Como um cliente
-Quero poder ver o resultado de uma enquete
-Para saber a opinião da comunidade a respeito de cada tópico
+Feature: Result of a Poll
+As a customer
+I want to be able to see the results of a poll
+To get the community's opinion on each topic
 
-Cenário: Com internet
-Dado que o cliente tem conexão com a internet
+Cenário: With internet
+Since the customer has an internet connection
 Quando solicitar para ver o resultado de uma enquete
 Então o sistema deve exibir o resultado da enquete
 E armazenar os dados atualizados no cache
