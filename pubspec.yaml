@@ -32,8 +32,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test:
-  mockito:
-  faker:
+  mockito: ^5.4.3
+  faker: ^2.1.0
   # For information on the generic Dart part of this file, see the
   # following page: https://dart.dev/tools/pub/pubspec
   flutter_lints: ^3.0.1
